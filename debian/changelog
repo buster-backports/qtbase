@@ -1,5 +1,6 @@
-qtbase-opensource-src (5.12.5+dfsg-1) experimental; urgency=medium
+qtbase-opensource-src (5.12.5+dfsg-1~local) buster; urgency=medium
 
+  [ Dmitry Shachnev ]
   * Merge 5.11.3+dfsg1-3 and -4 uploads from unstable.
   * New upstream release.
   * Drop hidpi_crash.diff, applied in the new release.
@@ -8,7 +9,7 @@ qtbase-opensource-src (5.12.5+dfsg-1) experimental; urgency=medium
   * Update symbols files from the current build logs.
   * Bump ABI version to qtbase-abi-5-12-5.
 
- -- Dmitry Shachnev <mitya57@debian.org>  Fri, 13 Sep 2019 10:35:33 +0300
+ -- Franciscarlos Soares <prof.franciscarlos@gmail.com>  Sun, 29 Sep 2019 23:22:31 -0300
 
 qtbase-opensource-src (5.12.4+dfsg-4) experimental; urgency=medium
 
